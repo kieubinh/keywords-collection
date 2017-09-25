@@ -1,0 +1,852 @@
+zero-exchange proof 16 pages [FTP: CMU-CS-93-182:2
+wooded hypergraph:1
+wireless Sensor network:2
+wind wind wind wind energy energy energy energy:1
+width Broker:2
+width:2
+website systems:2
+web services:3
+way-finding:2
+wavelet scale:1
+wavelet coding:2
+wavelet:1
+wall-time precedence:3
+visualization:1
+visual interaction:1
+virtualization:2
+virtual reality:1
+virtual channels:3
+view:2
+video- based interaction:1
+video game:2
+video coding:2
+vessel images:2
+variational inequality problem:1
+validation:2
+user-scheduler interaction:2
+user interface:2
+user actions:1
+use case model:2
+usability:1
+university curricula:1
+universality:2
+universal test set:2
+unified power flow controller:1
+unfixed camera:1
+two-person games 54 pages [FTP: Unavailable] We describe a search algorithm for two-player games that relies on selectivity rather than brute-force to achieve success:3
+turbine:3
+tuple-comparison:1
+trust chain transfer:1
+triangulation:2
+travel industry:2
+traffic load:2
+tracking:2
+trace analyzers:2
+tools:2
+tomato seedlings:1
+timing constraints:1
+thread:2
+theorem proving:2
+the- ory development:1
+the proposed framework is shown in Fig:1
+testing metrics:2
+testing:3
+testability:3
+test generation:2
+temporal memory:1
+technology adoption:2
+technical quality:2
+systems specification:1
+systems integration:2
+syntax directed editors:2
+surrogate cost:2
+support vector machines:1
+supply chain network:1
+super-compilation:2
+subset queries:1
+string recognizer:1
+storage security:1
+stock selection:1
+steganalysis:1
+statisticalanalysis:2
+state variable:1
+stabilization by state feedback:1
+speed controller:1
+special identifier idioms:2
+sparsity:4
+software quality classification:1
+software project management:3
+software metrics:1
+software management:1
+software estimation:3
+software engineering methodologies:1
+software component:3
+soft error:2
+social influence:2
+slide:1
+simulation:4
+simulated annealing:1
+simple modifying algorithm:1
+silhouette coefficient:1
+shared virtual worlds:3
+service delivery:3
+sentiment classicization:2
+sensor network tomography:2
+semantics 34 pages [FTP: CMU-CS-93-187:2
+semantic match rule:1
+semantic grid:2
+security vulnerabilities:1
+security:6
+secure program execution:2
+search technology:2
+score-based learning:1
+scheduling algorithms:2
+scheduling:5
+scalogram:1
+satisfaction probability:2
+sample impoverishment:2
+runtime environment:1
+rotation:3
+rotary motion platform:2
+roman numeral harmonic analysis:3
+robustness I:2
+robust circuit design:2
+robust:1
+reverse modeling:1
+resource management:2
+resource constrained fault-tolerance:2
+residual fault prediction:3
+requirements methods:3
+replication garbage collection 15 pages [FTP: CMU-CS-93-138:2
+rendering:1
+remote sensing:3
+remote care:1
+relevance checker:1
+redundancy concept:2
+recovery propagation:2
+real-time rendering:2
+real-time databases:2
+rational functions:3
+query answering:3
+quantum informatics:2
+quality of service (QoS):1
+push-pull-mooring framework:2
+pseudoknot:1
+protocol testing fault injection passive testing formal model:1
+protein folding:2
+property:2
+proof:2
+programming languages:2
+programming environments:3
+process improvement cost benefit:1
+process algebra:1
+procedural order:2
+problem solving:2
+problem detection:2
+probabilistic systems:1
+privacy:1
+printing:2
+principal-agent theory:1
+presentation level:1
+power-flow studies:2
+power savings:1
+position specific scoring matrix:3
+polynomial time algorithm:2
+polynomial time:2
+policy base:2
+playfield segmentation:1
+plant population dynamics:2
+pixel:1
+pitch:1
+personalization:3
+persistent state:3
+persistent runtime system:2
+performance measures bounds:2
+particle swarm optimization I:3
+particle swarm optimization (PSO):1
+pareto dominance:1
+parallelism at the chip level:1
+parallel operating system:2
+parallel finite element analysis:1
+parallel MATLAB:1
+parallel:2
+packet switched networks:2
+packet size:2
+orthogonal wavelet filter banks:1
+organizational culture:1
+optimzing compilers 7 pages [FTP: CMU-CS-93-172:2
+operational performance:1
+operating systems 20 pages [FTP: CMU-CS-94-124:2
+ontology service driven multi-agent system:1
+ontology mapping:3
+ontologies:2
+online shopping:2
+online auction:1
+one-to-one correspondence:1
+on-chip temperature:2
+on-chip intercon- nects:2
+object-oriented design:1
+object localization:2
+numerical reconstruction methods:2
+numerical analysis:2
+nonsmooth optimization:1
+nonsingular transformations:2
+noninterference:3
+nondestructive testing:1
+non-linear optimization:1
+no response:3
+newton method:1
+neural network:1
+networksimulation:2
+network of workstations:3
+network interface:2
+network buffers:2
+network:2
+mutation testing:2
+mumps surveillance:2
+multiresolution signal analysis:1
+multiprocessors:1
+multimedia:2
+multidisciplinary design optimization:2
+multicast:4
+multi-hop routing protocol:2
+multi- dimensional cluster misclassification:2
+motion refinement:1
+motion dynamics:1
+monitoring:2
+monitor:2
+molecular conformation:1
+module:1
+modeling:2
+model of semantic conflict elimination:1
+model checking:1
+mobile positioning:2
+mobile healthcare:2
+mobile P2P network:1
+mobile Internet 1:1
+microcontroller:1
+metrics:1
+methodology:3
+meta-models:2
+memory management3:1
+memory hierarchy:1
+medical knowledge:2
+medical imaging:1
+medical images:1
+measurement of population convergence:1
+maximum likelihood estimation:2
+maximum entropy solutions of finite moment problems:2
+matrix embedding:1
+matchings:2
+matching degree:3
+mapping:3
+machine learning:1
+low cost:1
+loop distribution:3
+logical product:1
+load balancing:1
+ling:3
+linear programming:3
+limit order book:1
+libraries of bases:1
+lemniscates:1
+least squares:2
+learning system of intuition:1
+large change sensitivity:2
+lacunae detection:1
+knowledge-based systems:1
+knowledge discovery:1
+kernel:3
+k-nearest neighbor classification:1
+joint source-channel coding (JSCC):3
+isomorphic representations:2
+iso-surface:1
+invariant- methods: data analysis:1
+intrinsic cluster:1
+interprocess communication 22 pages Multimedia has generated a widespread interest in real-time support within general purpose operating systems:2
+interprocess communication 20 pages [FTP: CMU-CS-94-141:2
+interactivity:1
+inter-iteration decision-making process:2
+integrated attribute assessment system:1
+information fusion:1
+impulse-noise:1
+image-guided surgery:3
+image segment:2
+image inpainting:1
+i-triangulated graphs:2
+hyperspectral imagery unmixing:2
+human computer interaction:1
+human 2:1
+homoscedastic error model:1
+hit ratio:1
+heuristic investment rules JEL Classification: G31:1
+heterogeneous database:1
+hashing:3
+hash function:1
+harmonic chord:2
+hard real-time scheduling:2
+hard:2
+haptic interface:1
+grey-box testing:3
+graph:3
+granularity:2
+global optimization:1
+global convergence:2
+genetic algorithms:1
+genetic algorithm 1:1
+genetic algorithm:1
+generalized gradient approximation:2
+gene expression data:2
+gene ex- pression data:2
+game theory:1
+fuzzy vector quantization:2
+fuzzy supervisor:1
+fuzzy mutual control:1
+fuzzy math:2
+fuzzy integral:1
+fuzzy geometry:1
+frequent subgraph mining:2
+free-text analysis:1
+free-space interconnect:1
+fragmentation:2
+four-vertex mapping:2
+formal specification:2
+formal languages:1
+forest volume:2
+fingerprinting:2
+finger language:1
+financial distress Evaluation model:1
+field study:2
+feedback judgement:1
+feature vector:1
+feature map:2
+fault-tolerance:3
+fault tolerance:2
+fault models:1
+fast pruning method:1
+fairness:1
+factory communication systems:2
+factor analysis:1
+face recognition:1
+exact penalty function:2
+essential parallel:1
+error-correcting codes:1
+entity:1
+enterprise service bus:1
+enterprise applications:2
+engineering:1
+end-user programming [Also appears as Human-Computer Interaction Institute Technical Report CMU-HCII-94-102] [FTP: CMU-CS-94-156:3
+embedded systems:3
+embedded browser:1
+element validation:2
+electronic design automation:2
+effort balancing:1
+efficient radio map:1
+efficiency measurement:1
+educational technology:1
+education:1
+edge matching:2
+e-government information technology infrastructure:1
+e-Learning:2
+e-Health Services:1
+dynamic vehicle routing problem:1
+dynamic resource allocation:2
+dynamic programming:1
+domain ontology automatic evolution Natural language processing:1
+divider:2
+distributed-memory multiprocessors:3
+distributed objects:2
+distributed development:1
+distinguishing sequence:3
+distance learning:3
+disk file:1
+disjoint paths:2
+discussion group development:2
+discretion:2
+discrete wavelet transform:1
+digital pheromones:2
+different zero:1
+difference Expansion:1
+deposit insurance:1
+denoising:1
+defect inspection:1
+decision trees:2
+database architecture:1
+data replication:2
+data mining:3
+data exchange:2
+data encryption:2
+data capture agent:1
+cryptography:4
+cropping-resistant:3
+creativity:2
+covert channel:1
+core:3
+coordination:2
+control systems:3
+contract:1
+constructionism:2
+constraints:2
+constrained states space:2
+constrained optimization:2
+condition-based complexity:2
+computer supported collaborative work (CSCW):2
+computer security:1
+computer cluster:1
+computer animation:1
+computation decomposition:2
+comprehensibility:1
+communities of need:2
+communication regularity:1
+comments:2
+collaborative virtual environments (CVEs):2
+code optimization technique:3
+code optimization:1
+clustering algorithm:1
+clustering:1
+cluster:2
+classification:1
+chiral vector:1
+catalog:2
+case study:1
+cartography:1
+capillary:1
+capacitor placement:1
+breakthrough innovation:2
+black box method:2
+black (white) patterns:1
+binary tree:2
+benchmarking:2
+belief clustering:1
+back-propagation:1
+automated visual industrial quality control:2
+automated geometry theorem proving:3
+authentication:2
+association rules:1
+aspect-oriented software de- velopment:3
+aspect-oriented programming:1
+artificial neural network:3
+architectural know-how modeling:1
+application development:1
+animation:2
+analytic network Process (ANP):1
+analysis:1
+alignment measure:3
+aerospace industry:2
+address tracing 172 pages [FTP: CMU-CS-94-145:2
+adaptive wavelet neural network (AWNN):1
+adaptive control:1
+ad hoc networks:2
+accurate rate:1
+accessibility value approximation:1
+absorbing boundary condition:1
+aberration:1
+a Case Study:1
+XMP:2
+Wyoming:2
+Wormhole:3
+Wireless Sensor Network:1
+Weighted OR operator:1
+Web information system:2
+Web Services:2
+Web Map Service:1
+Web Application Servers:3
+Web 2:2
+Wakeup Scheduling:2
+Voronoi Diagram:1
+Visualization:3
+Visual Substitution for Haptic Feedback:1
+Visual Basic:2
+Virtual organization Breeding Environment (VBE):3
+Virtual Reality:2
+Verification:3
+Vehicle routing problem:1
+Vehicle Routing Problem:1
+Vector control:2
+Vector Autoregression:1
+Value Function:1
+VLSI:2
+User Subjectivity:2
+User Interfaces:2
+Usability Research:1
+Upper approximation:1
+Unicode Transformation Format (UTF):1
+UW-API:1
+UML:6
+Trigger:1
+Travel insurance:1
+Transplantation:1
+Transmission control protocol:1
+Transmission Lines:1
+Trading Success Rate:1
+Time-to-Live (TTL):1
+Threading:1
+Thermal control system:2
+Theoretic framework:3
+The parameter updating law:1
+The Diabetes Field:1
+Text mining:1
+Testing of container classes:3
+Test case selection:2
+Test Inconsistency:1
+Temporal Video Segmentation:1
+Telecommunication policy:1
+Telecommunication:2
+Task Decomposition:1
+Tardy:1
+TSP:2
+T33XX LSSD vector pattern DFT:2
+Systems Management:2
+System Identification:1
+Support Vector Machine:1
+Supply chain management:1
+Subspace:1
+Stochastic Set-Covering Problem:1
+Steganography:1
+Stack Re- source Policy:2
+Stable Controller:1
+Spectral Factorization:1
+Special Identifier Idiom:1
+Spatial network:1
+Sparsity Coefficient:1
+Software metrics:2
+Software Migration:3
+Slot- ted ALOHA:2
+Slot allocation:1
+Simulation Engine:1
+Simulation:1
+Similitude degree:1
+Similarity:1
+Shot segmentation:1
+Service Oriented Architecture:1
+Sensor Network:1
+Sensor Framework:2
+Sensibility:1
+Semantics:3
+Semantic based query:1
+Semantic Web:4
+Semantic Grid:2
+Semantic Field:1
+Self-management:1
+Self-adaptive mutation:2
+Self-adaptive:1
+Seizure detection:2
+Seed-value Interpolation:2
+Secure sketch:1
+Search algorithms:2
+Screeners:2
+Schedulability Analysis:1
+Scale-space:1
+ScalableCoherent Interface:2
+Scalability:3
+SVM:2
+SVG:1
+SPMD:2
+SNR:2
+SAT problem:2
+SAAS:1
+Rough surface reflectivity:2
+Robotics:1
+Rewrite Systems:2
+Reverse Engineering:2
+Resource locating:1
+Relative:2
+Redundant Network:3
+Real-time data summary:1
+Real Time Computer Simulation:1
+Reachability Analysis:3
+Ranking Method for Japanese Texts:1
+RSA:2
+RBF:3
+Quality of Service (QoS):3
+QoS(Quality of Services):1
+QoS Issues:2
+QoS:2
+QSAR:1
+Protein Function:1
+Progress:1
+Prognostics:2
+PrincipalComponent Analysis (PCA):2
+Preprocessing:1
+Power flow:1
+Power Consumption:2
+Phase Space Reconstruction:2
+PhD:1
+Personal Assistant Agents:1
+Performance modeling:1
+Performance isolation:3
+Performance Evaluation Parts of this work have been funded by the German Research Founda- tion (Deutsche Forschungsgemeinschaft):3
+Performance Evaluation:3
+Performance Degradation:2
+Performance Analysis:2
+Peak signal to noise ratio:1
+Particle Swarm Optimization:1
+Partial Volume Effect:3
+Parallel processing:3
+Parallel data mining:2
+Parallel:2
+Paralex:1
+PRAM:1
+PCA:1
+Orthogonal Frequency Division Multiplexing(OFDM):1
+Orphan Message:1
+Optical Flow:1
+OpenGL:1
+Online Learning:2
+Online Game:1
+On-line signature verification:1
+On-line Game:1
+Object-Z:3
+Object- oriented system:2
+Object identification:3
+Normalized Correlation (NC):1
+Noisy data:3
+Noise Removal:3
+Newton step:2
+Neural network-GRNN-Wind tunnel test-Interpolation:1
+Neural Networks:2
+Neural Network:1
+Network Management:2
+Nearest-Neighbour Synthesis:1
+Naïve Bayes:3
+Multiprocessor systems:3
+Multipath:3
+Multiobjective Optimization:2
+Multidatabases:1
+Multi-resolution Analysis:1
+Multi-group classification:3
+Multi-agent System:2
+Multi-Purpose Annotations:1
+Multi Resolution Analysis(MRA):1
+Multi Agent:1
+Model-Driven:2
+Model Driven Engineering (MDE):2
+Model:2
+Mobile Phone:1
+Mobile IP:1
+Mobile Ad-Hoc Networks:3
+Mobile:2
+Mismatch:2
+Min-Sum:2
+Metal- binding sites:2
+Medical Knowledge Acquisition:1
+Mechanical Desktop:2
+Mechanical Design:2
+Max-Min Portfolio:1
+Matlab:2
+Mathematical Computation:2
+Matching:1
+Markov games:3
+March algorithm:2
+Man-in-middle-attack:1
+MRI:2
+MLP:1
+M40:1
+Lossy compression:1
+Loss:1
+Logistics tracking system:3
+Logical back-propagation:1
+Logarithmic Number System:3
+Log- gabor filter:1
+Locality:2
+Load Balancing:1
+Lennard-Jones potential function:2
+Least Squares Monte Carlo Simulation:1
+Leadership:1
+LCF:2
+Kolmogorov complexity:3
+Knowledge sharing:1
+Knowledge discovery:1
+Java bytecode checking:2
+Interpolation:3
+Internet:1
+Interface:1
+Interconnection networks:1
+Interactive Relevance:2
+Intelligent Business Process:2
+Innovation:2
+Information retrieval:2
+Information extraction:1
+Indian language processing:2
+Incident Analysis:3
+Image segmentation:3
+Identifiability:2
+Iddq testing:1
+IT Adoption:2
+IR-LED:1
+IEEE 802:2
+IEC 61131-3:2
+ICMP Tracebak:1
+I/O:1
+Human Computer Interaction (HCI):1
+Honeypot:2
+Heterogeneous Information Systems:3
+HTML:2
+HCI:2
+H5:2
+Group-based:2
+Grey decision making:1
+Graph matching:2
+Genome Rearrangement:1
+GeneticAlgorithms:2
+Genetic algorithm:2
+Genetic Algorithm:1
+Generalized Interval Arithmetic:1
+GapL:2
+GSP:1
+GSM:2
+Fuzzy ARTMAP:1
+Fuzzy:1
+Functional programming:2
+Fraud Detection:1
+Formal Verification:3
+Forecasting:2
+Fisher discriminant:1
+Fish School:3
+Firm Performance:1
+Firewalls:3
+Final decision:1
+File sharing:2
+Feature extraction:3
+Feature Vector:1
+Factory automation:1
+FPGA:1
+FFT:2
+FDE:1
+FC29:1
+Expert system:1
+Experimental Results:1
+Example Acquisition:2
+Evolutionary Algorithms:1
+Evolution:2
+Energy Mechanism:1
+Electronic Communication):3
+Electrocardiogram Recognition:2
+Efficient frontier:1
+Dynamic programming:1
+Dynamic pricing:2
+Dynamic planning model:2
+Dimensionality reduction:1
+Digital forensics:3
+Digital Electronics):2
+Differential Power Analysis:1
+Descriptive Geometry:2
+Denoising:1
+Delaunay triangulation:1
+Deflection routing:1
+Decision model:3
+Decision Making:2
+Data Warehouse:2
+DSRC Networks:2
+DNA:1
+DHT:2
+DAML+OIL:2
+Customer Relationship Management (CRM):1
+Cubic spline:1
+Counterfeit Attack:1
+Cotton (Gossypium hirsutum L:1
+Cost:3
+Constrained Steiner tree:2
+Constant Failure Rate:2
+Concurrent Pascal:2
+Concurrency:2
+Computer Supported Collaborative Work (CSCW):2
+Comprehensive Evaluation:1
+Compound Images:1
+Component Certification Process:3
+Component:1
+Communication Technology:2
+Communication Technologies) Product:1
+Communicating Automata:1
+Combined weighted geometric averaging:1
+Combinatorial allocation:2
+Color channels:1
+Collaboration:1
+Clusters:1
+Clustering:2
+Cluster storage systems:1
+Classifiers:1
+Classifier:1
+Classification:1
+Chromosome brokenness:2
+Character recognition:2
+Character Level:1
+Chaotic cryptography:1
+Censoring Technique:1
+Case based reasoning:1
+Capacity Utilization:1
+Capability Maturity Model:1
+Call connection probability:1
+CORBA:1
+CASE adoption:1
+C4:2
+Business Objects:2
+Blast Furnace:1
+Bit loading:1
+Bipolar Granular Neurobiological Computing:1
+Biometrics:1
+Bioinformatics The project is supported by Shanghai Natural Science Foundation 05ZR14050 Corresponding Author:2
+Behavioral model:1
+Bayesian networks:2
+Bayesian classifier:1
+BPNN:3
+BP neural network:3
+BIST:2
+BDDs:2
+Automatic Differentiation:1
+Automated question proposing:1
+AutoCAD for Architecture:2
+AutoCAD R14):2
+AutoCAD R14:5
+AutoCAD Quick Reference:4
+AutoCAD Programming):2
+AutoCAD Programming Keywords: Visual LISP:2
+AutoCAD Programming Keywords: OjectARX:2
+AutoCAD Map:2
+AutoCAD LT):4
+AutoCAD LT Keywords: Mechanical Desktop:2
+AutoCAD LT:4
+AutoCAD Certification):2
+AutoCAD Certification:2
+AutoCAD Assessment Keywords: AutoCAD Certification:2
+Auto LISP Keywords: Visual LISP:2
+Authentication:1
+Audio visual speech recognition:1
+Attitudes:2
+Attacks:3
+Ataiyal Tribal Culture:3
+Association Rule Mining:3
+Archival Data Analysis:2
+Arabic script:1
+Approximation measure:2
+Antipattern OWL Ontology:2
+Ant Colony Optimization:1
+An Ontology-based Approach:1
+Amino Acid Sequence etc:1
+Ambiguity Detection:3
+Altix:1
+Alloy:1
+Alias:1
+Algebraic Semantics:2
+Adaptive Routing:1
+Adaptive Network:1
+Adaptive:2
+AdaBoost:1
+Active Mapper:2
+AVMS:2
+ASCII mutual substitution table:1
+ARX model:1
+ART Neural Network:1
+ACO (Ant Colony Optimization):1
+AAA:1
+9/11:3
+802:6
+65E05:2
+4LSB:1
+3D Studio MAX:2
+3D Reconstruction:2
+3D C-string:1
+3D:1
+2nd edition:2
+2D PCA:1
+03G25:1

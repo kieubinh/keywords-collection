@@ -1,0 +1,5 @@
+statistics:
+- citation-network2.txt
+	+ 12223388 lines
+	+ 1436855 "index" in 1422088 lines
+	+ 949 matches in 936 lines
