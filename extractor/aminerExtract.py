@@ -1,7 +1,8 @@
 
 import os
 
-dataPath = "F:\data\Aminer"
+#dataPath = "F:\data\Aminer"
+dataPath = "\data"
 files = ['citation-network2.txt', 'outputacm.txt', 'DBLPOnlyCitationOct19.txt']
 #files = ['citation-network2.txt']
 output = 'keywords-statistics.txt'
