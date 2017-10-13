@@ -2,6 +2,8 @@
 import glob, os
 import sys
 import json
+import operator
+import string
 
 
 #{doi}
@@ -13,7 +15,7 @@ dict_keywords = {}
 dataPath = "/ACM"
 
 
-#remove space
+#remove space 
 def cleanText(text):
 	#print(text)
 	#remove first space
@@ -56,6 +58,12 @@ def checkDoiExist(value, publist):
 
 	return False
 
+#remove space first + last, remove punct first + last, convert to lowercase
+def normalizeWord(word):
+	word = cleanText(word)
+	word = word.translate(string.punctuation)
+	return word.lower()
+
 
 def extractFromBibFile(nameFile):
 	infile = open(nameFile, encoding='UTF8')
@@ -67,13 +75,33 @@ def extractFromBibFile(nameFile):
 
 	for pubText in publications[1:]:
 		pubElement = extractBibText(pubText)
-		print('doi' in pubElement)
+		#print('doi' in pubElement)
 		if ('doi' in pubElement):
 			if (checkDoiExist(pubElement['doi'], publist)==False):
 				publist.append(pubElement)
-	
-	jsonPub = json.dumps(publist)
-	print(jsonPub)
+				#add keywords to dict
+				if ('keywords' in pubElement):
+					keywords = pubElement['keywords']
+					for keyword in keywords.split(','):
+						#normailize keyword
+						keyword = normalizeWord(keyword)
+						if (keyword in dict_keywords):
+							#dict_keywords.update({keyword, dict_keywords.get(keyword)+1})
+							dict_keywords[keyword]+=1
+						else:
+							dict_keywords[keyword]=1
+
+				#else:
+					#print(pubElement)	
+
+	#jsonPub = json.dumps(publist)
+	sorted_keywords = sorted(dict_keywords.items(), key=operator.itemgetter(1), reverse=True)
+	#for (keyword, value) in sorted_keywords:
+	#	print(keyword+":"+str(value))
+
+	jsonKeywords = json.dumps(sorted_keywords)
+	print(jsonKeywords)
+	print("total: "+str(len(sorted_keywords)))
 
 
 def readFolder():
